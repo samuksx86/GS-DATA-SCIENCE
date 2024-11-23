@@ -28,5 +28,5 @@ Modelos de Machine Learning:
   - scikit-learn
 
 ## 🧑‍💻 Autores
-Samuel Ramos de Almeida - RM99134
-Guilherme Silva dos Santos - RM551168
+- Samuel Ramos de Almeida - RM99134
+- Guilherme Silva dos Santos - RM551168
