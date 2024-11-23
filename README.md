@@ -6,6 +6,8 @@ Este projeto analisa a pegada de carbono do Brasil em relação a métricas glob
 - 🤖 Aplicar modelos de Machine Learning para previsão de emissões e classificação de países.
 - 🌱 Propor estratégias para reduzir a pegada de carbono no Brasil.
 
+=======
+
 💻 Tecnologias Utilizadas
 - Linguagem: Python 3.8+
 - Bibliotecas Principais:
